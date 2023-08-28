@@ -1,0 +1,29 @@
+ขั้นตอนgit
+git init
+ls
+cd .git
+cd ..
+git remote  เอามาจากgit เรา
+git branch -M ตามด้วยชื่อbranchที่ต้องการ
+git  add .
+git  commit -m “ชื่อที่เราต้องการได้”**
+git  เมลตามที่git
+git userตามที่gitแนะนำ
+**git  comit -m “ชื่อที่เราต้องการได้”
+git push
+git push set up ตามที่gitแนะนำ
+สร้างbranchลอง
+git branch ขื่อbranchรอง
+git branch
+git branch checkout ชื่อbranch
+git branch
+git add.
+git commit -m “ชื่อไฟล์”
+git push 
+git push setupตามที่แนะนำ
+git pull
+กรณี merge
+git checkoout เข้าbranchที่เราอยาก merge
+git merge branchที่เราอยู่ branchที่เราต้องการให้มันรวมอยู่
+git push 
+git push set up ตามที่gitแนะนำ
